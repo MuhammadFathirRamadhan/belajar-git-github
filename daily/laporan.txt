@@ -1,0 +1,32 @@
+Nama: Muhammad Fathir Ramadhan
+NIS: 00383
+Tanggal: 2 september 2024
+Jam masuk: 08:00 WIB
+Jam pulang: 16:00 WIB
+Kerjaan: 
+Menginstall PHP, nodejs, MysQl, Composer, Git, vscode
+Membuat artikel mengena 
+1. Bahasa pemograman PHP dasar dan OOP
+2. Framework yang mengunakan bahasa pemograman PHP
+3. Git dan github
+Tanggal: 3 september 2024
+Jam masuk: 08:00 WIB
+Jam pulang: 16:00 WIB
+Kerjaan: 
+Belajar mengenai PHP dasar dan tugas
+Tanggal: 4 September 2024
+Jam masuk: 08:00 WIB
+Jam pulang: 16:00 WIB
+Kerjaan:
+Belajar mengenai PHP OOP dan tugas
+Tanggal: 5 September 2024
+Jam masuk: 08:00 WIB
+Jam pulang: 16:00 WIB
+Kerjaan:
+Belajar mengenai github istilah github,branch,merge, repo, commit 
+ 
+Tanggal: 6 September 2024
+Jam masuk: 08:00 WIB
+Jam pulang: 16:00 WIB
+Kerjaan:j
+Belajar cara mengupload folder didalam repository github
